@@ -20,14 +20,14 @@ myChatBot.createModel()
 print("Bem vindo ao Chatbot FEI")
 
 #primeira pergunta do usuário para iniciar a conversa
-pergunta = input("Oque deseja saber?\n")
+pergunta = input("O que deseja saber?\n")
 resposta, intencao = myChatBot.chatbot_response(pergunta)
 print(resposta + "   ["+intencao[0]['intent']+"]")
 
 #loop para continuar a conversa até que o usuário deseje sair
 while (intencao[0]['intent']!="despedida"):
-    pergunta = input("posso lhe ajudar com algo a mais?\n")
+    pergunta = input("Posso lhe ajudar com algo a mais?\n")
     resposta, intencao = myChatBot.chatbot_response(pergunta)
     print(resposta + "   [" + intencao[0]['intent'] + "]")
 
-print("Foi um prazer ajudá-lo")
+print("Foi um prazer ajudá-lo!")

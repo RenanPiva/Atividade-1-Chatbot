@@ -15,7 +15,7 @@
     "tag": "Perguntas_gerais_PIPE-FAPESP",
     "patterns":["O que é o PIPE-FAPESP e quais são seus objetivos principais?", "O que é o PIPE-FAPESP?", "Quais são os objetivos do PIPE-FAPESP?",
                 "Quais são os objetivos principais do PIPE-FAPESP?", "Quais são os objetivos do PIPE?", "Quais são os objetivos principais do PIPE?"],
-    "responses":["O PIPE-FAPESP (Programa Pesquisa Inovativa em Pequenas Empresas) é um programa da FAPESP que apoia a pesquisa em ciência e tecnologia em pequenas empresas. Seus principais objetivos são promover a inovação tecnológica, aumentar a competitividade empresarial, e estimular o desenvolvimento econômico e social por meio da pesquisa."]
+    "responses":["O PIPE-FAPESP (Programa Pesquisa Inovativa em Pequenas Empresas) é um programa da FAPESP que apoia a pesquisa em ciência e tecnologia em pequenas empresas. \nSeus principais objetivos são promover a inovação tecnológica, aumentar a competitividade empresarial, e estimular o desenvolvimento econômico e social por meio da pesquisa."]
   },
   {
     "tag": "Submeter_projeto_PIPE-FAPESP",
