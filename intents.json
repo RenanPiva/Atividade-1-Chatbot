@@ -1,0 +1,29 @@
+{"intents":[
+  { "tag": "saudacao",
+    "patterns":["Ola","Opa","Oi", "tudo bem"],
+    "responses": ["Oi","Olá"]
+  },
+  { "tag": "despedida",
+    "patterns":["valeu","tchau","Obrigado","tks"],
+    "responses": ["Até breve","Falou"]
+  },
+  { "tag": "data_prova",
+    "patterns":["Quando sera a prova?","A prova será em que dia?"],
+    "responses": ["no dia 26"]
+  },
+  {
+    "tag": "Perguntas_gerais_PIPE-FAPESP",
+    "patterns":["O que é o PIPE-FAPESP e quais são seus objetivos principais?"],
+    "responses":["O PIPE-FAPESP (Programa Pesquisa Inovativa em Pequenas Empresas) é um programa da FAPESP que apoia a pesquisa em ciência e tecnologia em pequenas empresas. Seus principais objetivos são promover a inovação tecnológica, aumentar a competitividade empresarial, e estimular o desenvolvimento econômico e social por meio da pesquisa."]
+  },
+  {
+    "tag": "Submeter_projeto_PIPE-FAPESP",
+    "patterns": ["Como submeter um projeto ao PIPE FAPESP?"],
+    "responses": [
+      "Preencha do formulário de submissão disponível no site da FAPESP, envie uma proposta, que será avaliada por especialistas da área e acompanhe a avaliação e eventual adequação do projeto conforme feedback recebido.",
+      "No site da FAPESP, acesse a área do PIPE e entre no portal do SAGe na seção 'Fluxo Contínuo'. Lá, você poderá enviar seu projeto.",
+      "Você pode enviar o seu projeto no site da FAPESP: https://fapesp.br/pipe/)"
+    ]
+  }
+]
+}
