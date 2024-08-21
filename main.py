@@ -31,3 +31,5 @@ while (intencao[0]['intent']!="despedida"):
     print(resposta + "   [" + intencao[0]['intent'] + "]")
 
 print("Foi um prazer ajudá-lo")
+
+print
