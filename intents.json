@@ -26,6 +26,10 @@
       "No site da FAPESP, acesse a área do PIPE e entre no portal do SAGe na seção 'Fluxo Contínuo'. Lá, você poderá enviar seu projeto.",
       "Você pode enviar o seu projeto no site da FAPESP: https://fapesp.br/pipe/)"
     ]
-  }
+  },  
+  { "tag": "data_proposta",
+  "patterns":["Quando eu posso enviar minha proposta?", "Ainda posso enviar a minha proposta?", "Posso enviar meu projeto?"],
+  "responses": ["As propostas para o PIPE Fase 1, Fase 2 e PIPE Invest são recebidas em fluxo contínuo durante todo o ano."]
+}
 ]
 }
