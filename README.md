@@ -5,7 +5,7 @@
 Chatbot que ajuda uma empresa e/ou um pesquisador a submeter um projeto PIPE  [https://fapesp.br/pipe/](https://fapesp.br/pipe/) e auxiliar um usuário com suas dúvidas.
 O trabalho deve ser feito em duplas
 
-# Descrição das intenções está comentada no arquivo .json
+# Descrição das intenções está comentada no arquivo intents.json
 
 # Figura com o Dialogo proposto
 
