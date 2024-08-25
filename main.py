@@ -30,4 +30,4 @@ while (intencao[0]['intent']!="despedida"):
     resposta, intencao = myChatBot.chatbot_response(pergunta)
     print(resposta + "   [" + intencao[0]['intent'] + "]")
 
-print("Foi um prazer ajudá-lo!")
+print("Foi um prazer ajudá-lo!, Até a proxiama")
