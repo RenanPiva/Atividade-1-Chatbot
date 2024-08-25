@@ -3,14 +3,15 @@
 # Atividade 1 - Chatbot
 
 Chatbot que ajuda uma empresa e/ou um pesquisador a submeter um projeto PIPE  [https://fapesp.br/pipe/](https://fapesp.br/pipe/) e auxiliar um usuário com suas dúvidas.
+O trabalho deve ser feito em duplas
 
-### 1. Descrição das Intenções (pode ser listagem do intents.json comentado)
-### 2. Figura com o Dialogo proposto (pode ser figura das telas de diálogo.. mas lembre-se de mostrar toda a estrutura)
-### 3. link para um vídeo de até 2 minutos mostrando o uso do chatbot.. usuário deve fazer pelo menos três perguntas.
-[Vídeo demonstrando o uso do ChatBot](https://github.com/RenanPiva/Atividade-1-Chatbot/blob/main/2024-08-20%2022-44-56.mkv)
-### 4. link para o repositório (GIT) com o seu projeto (incluindo os arquivos do modelo!)
+# Descrição das intenções está comentada no arquivo .json
 
+# Figura com o Dialogo proposto
 
-# Video ChatBot
+[Imagem]
+
+# Vídeo de até 2 minutos mostrando o uso do chatbot o usuário fez pelo menos três perguntas.
+Segue o vídeo do ChatBot em execução:
 
 https://github.com/user-attachments/assets/2a4b414a-7c19-4b40-ac38-67610255f282
