@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/2a4b414a-7c19-4b40-ac38-67610255f282
+
 # Atividade 1 - Chatbot
 
 Chatbot que ajuda uma empresa e/ou um pesquisador a submeter um projeto PIPE  [https://fapesp.br/pipe/](https://fapesp.br/pipe/) e auxiliar um usuário com suas dúvidas.
@@ -13,4 +13,4 @@ Chatbot que ajuda uma empresa e/ou um pesquisador a submeter um projeto PIPE  [h
 
 # Video ChatBot
 
-Uploading Video_ChatBot.mp4…
+https://github.com/user-attachments/assets/2a4b414a-7c19-4b40-ac38-67610255f282
