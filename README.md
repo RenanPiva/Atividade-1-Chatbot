@@ -1,13 +1,14 @@
 
 
 # Atividade 1 - Chatbot
-
-## Alunos
-Renan Piva R.A: 22.221.029-6 
-Melissa Fernandes R.A: 22.121.096-6
-
 Chatbot que ajuda uma empresa e/ou um pesquisador a submeter um projeto PIPE  [https://fapesp.br/pipe/](https://fapesp.br/pipe/) e auxiliar um usuário com suas dúvidas.
 O trabalho deve ser feito em duplas
+
+## Alunos
+Renan Piva R.A: 22.221.029-6                         
+Melissa Fernandes R.A: 22.121.096-6
+
+
 
 # Descrição das intenções está comentada no arquivo intents.json
 
