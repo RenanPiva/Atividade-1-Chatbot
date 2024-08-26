@@ -26,3 +26,6 @@ Melissa Fernandes R.A: 22.121.096-6
 Segue o vídeo do ChatBot em execução:
 
 https://github.com/user-attachments/assets/2a4b414a-7c19-4b40-ac38-67610255f282
+
+
+https://youtu.be/MFPPmh7HNAA
